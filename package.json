@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "A Vue.js 2.0 Component",
   "author": "fantasyui-com <captain@fantasyui.com>",
-  "private": true,
   "scripts": {
     "build": "webpack -p --config build/webpack.prod.conf.js",
     "dev": "webpack-dev-server --inline --hot --config build/webpack.dev.conf.js"
