@@ -1,2 +1,3 @@
 # giblet
-General purpose event based synchronized sound emitter.
+
+> A Vue.js 2.0 Component
