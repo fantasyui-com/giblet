@@ -8,6 +8,7 @@
     "dev": "webpack-dev-server --inline --hot --config build/webpack.dev.conf.js"
   },
   "dependencies": {
+    "querystringify": "^2.1.1",
     "vue": "^2.0.1"
   },
   "devDependencies": {
