@@ -8,7 +8,6 @@
     "dev": "webpack-dev-server --inline --hot --config build/webpack.dev.conf.js"
   },
   "dependencies": {
-    "querystringify": "^2.1.1",
     "vue": "^2.0.1"
   },
   "devDependencies": {
@@ -33,11 +32,22 @@
     "html-webpack-plugin": "^2.8.1",
     "vue-loader": "^9.4.0",
     "vue-style-loader": "^1.0.0",
-    "webpack": "^4.33.0",
+    "webpack": "^4.34.0",
     "webpack-dev-server": "^3.7.1",
     "webpack-merge": "^0.14.1"
   },
   "engines": {
     "node": ">= 4.0.0"
-  }
+  },
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/giblet.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/giblet/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/giblet#readme"
 }
