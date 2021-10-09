@@ -2,12 +2,13 @@
   "name": "giblet",
   "version": "3.18.0",
   "description": "Lofi Hiphop",
-  "author": "fantasyui-com",
+  "author": "fantasyui.com <fantasyui.com@gmail.com>",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "save": "git add .; git commit -m 'New Release'; git push; npm version patch; npm publish; git push;"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.9.3",
