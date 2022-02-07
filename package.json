@@ -14,7 +14,7 @@
     "@nuxtjs/axios": "^5.9.3",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.2.2",
-    "nuxt": "^2.11.0"
+    "nuxt": "^2.2.0"
   },
   "devDependencies": {},
   "main": "nuxt.config.js",
