@@ -12,9 +12,9 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.9.3",
-    "bootstrap": "^4.4.1",
-    "bootstrap-vue": "^2.2.2",
-    "nuxt": "^2.2.0"
+    "bootstrap": "^5.3.3",
+    "bootstrap-vue": "^1.5.1",
+    "nuxt": "^3.16.0"
   },
   "devDependencies": {},
   "main": "nuxt.config.js",
